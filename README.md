@@ -159,10 +159,10 @@ Built **OneLabLink**, a comprehensive LIMS for healthcare facilities.
 **🎓 B.Sc. in Computer Science** — Faculty of Science, Benha University *(2014 – 2019)*
 
 **📜 Certifications:**
-- Algorithms Analysis and Design *(Oct 2024)*
-- Data Structure Decode *(Aug 2024)*
-- Full Stack Web Developer — **YAT** *(Oct 2020)*
-- Frontend Development — **Udacity / 1 Million Arab Coders** *(Jan 2021)*
+- [📄 Algorithms Analysis and Design](https://github.com/MuhammadJamal99/MuhammadJamal99/blob/Main/Certificates/algorithms-analysis-and-design.pdf) *(Oct 2024)*
+- [📄 Data Structure Decode](https://github.com/MuhammadJamal99/MuhammadJamal99/blob/Main/Certificates/data-structure-decode.pdf) *(Aug 2024)*
+- [📄 Full Stack Web Developer — **YAT**](https://github.com/MuhammadJamal99/MuhammadJamal99/blob/Main/Certificates/full-stack-web-developer-yat.pdf) *(Oct 2020)*
+- [📄 Frontend Development — **Udacity / 1 Million Arab Coders**](https://github.com/MuhammadJamal99/MuhammadJamal99/blob/Main/Certificates/frontend-development-udacity.pdf) *(Jan 2021)*
 
 ---
 
